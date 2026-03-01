@@ -75,13 +75,6 @@ function App() {
       gradient: "purple",
       savedCount: null,
       isDarkText: true
-    },
-    {
-      title: "Photo",
-      description: "Série fotográfica explorando a arquitetura urbana moderna e suas interações com a luz natural. Um estudo visual sobre formas, sombras e a vida cotidiana na metrópole.",
-      imageUrl: "https://lh3.googleusercontent.com/aida-public/AB6AXuAy9gseplHP7IAYCY1vhqIy5ojJTEjKAvS1aCMsGYb7LkqurDV4LUbsLnhrcXEDvtZ5cagDXyNT99ioNbCpJ9P_NUrVF8jl7HRiKwrxANYVVFpbuWHZNX0h49Y1c0NDPCjPk5bMueWQ-XQaQOgPXXD4YLTOqCmP9T9yRGSPDCuuRx4QSlc2VSbuVZtZi3-LpGE5gr2SKYZJP4E_O03A4-S6TbaMhc0f4il7SqQft1ky8OiHoxP3YGkYaKYjU5RE8DjEtOIq7kL4dA0",
-      gradient: "pink",
-      savedCount: 89
     }
   ];
 
@@ -176,7 +169,7 @@ function App() {
               {/* Projects Section */}
               <div>
                 <div className="projects-header">
-                  <h3 className="section-title">Nossos Projetos</h3>
+                  <h3 className="section-title">Ultimos Projetos</h3>
                   <div className="section-line"></div>
                 </div>
 
