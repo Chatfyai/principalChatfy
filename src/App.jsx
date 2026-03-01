@@ -68,11 +68,13 @@ function App() {
       isDarkText: true // Texto preto para melhor visibilidade no fundo claro
     },
     {
-      title: "Design",
-      description: "Criação de um sistema de design completo para uma nova plataforma de e-commerce, focando em acessibilidade e experiência do usuário. Inclui guia de estilo e componentes reutilizáveis.",
-      imageUrl: "https://lh3.googleusercontent.com/aida-public/AB6AXuDs_zbOkhICF6vyZcg-oY76wY7ORmHnwmdnFVKAS3XfX_f08VdrjcxGEeGmhH5ufKc6bEZPUylweRmXA51oN3Qcz7U6AvoJNCFx4wQ-3rJEVMXkI2DF1JRVfqkuFpNuiuhAZt4BMj-D9rbBfmm5ivKyCzm2UJeY33tQsWT7CnKjHpQdUnFbU4CJHSkbtu8BdO4FsolgbbA6M6bEJhK2DcgQOy3A0TJFImGJpR-NBHi25kz6nnETZy2u-7riVkISmMYIU6X-1T19oJA",
+      title: "Landing Page",
+      description: "Landing page personalizada focada em conversão, integrada com assistente de Inteligência Artificial para atendimento 24 horas e qualificação de leads.",
+      bgImage: "/images/landingpage.png",
+      link: "https://viva-bem-landing-zpaz.vercel.app/",
       gradient: "purple",
-      savedCount: 124
+      savedCount: null,
+      isDarkText: true
     },
     {
       title: "Photo",
